@@ -1,0 +1,123 @@
+ canvas {
+    display: block;
+  }
+
+  .navbar-custom {
+    background-color: black;
+  }
+  
+.navbar-nav .nav-item .nav-link {
+    color: #ffffff;
+  }
+
+
+#logo {
+  height: 50px;
+  margin-left:50px;
+  padding-bottom: 5px;
+}
+
+.jumbotron {
+  background-color: black;
+}
+
+#typoforeveryone {
+  height: 50px;
+  margin-left: 50px;
+  margin-bottom: 25px;
+
+}
+
+.textbereich {
+  background-color: black;
+}
+
+.textbereich2{
+  background-color: black;
+  margin-top:-50px;
+}
+
+.fab {
+  color: white;
+}
+
+#arrow {
+  color: white;
+  height: 10px;
+  margin-left: 50px;
+}
+
+.letsgo{
+  color: #00FFF5;
+  text-decoration: underline;
+}
+
+.info {
+  color: white;
+}
+
+.animation {
+  border-color: #00FFF5;
+  border-radius: 25px;
+  background-color: #000000;
+  color: white;
+}
+
+.info2 {
+  color: white;
+  margin-left: 25px;
+  margin-top: 50px;
+}
+
+.animationsbild {
+  width: 300px;
+}
+
+.animation1 {
+  padding-left: 100px;
+}
+
+#record {
+  margin-top: 400px;
+  margin-left: 50px;
+}
+
+#mail {
+  margin-top: 400px;
+  margin-left: 150px;
+}
+
+.background {
+  background-color: #000000;
+}
+
+/* style.css */
+
+body {
+  font-family:  Helvetica, sans-serif; /* Add your preferred font-family here */
+}
+
+input {
+  border-radius: 25px; /* Adjust the border-radius as needed */
+  border: 1px white;
+  padding-left: 10px;
+  padding: 5px; /* Add padding for better spacing */
+  font-size: 12px;
+}
+
+select {
+  border-radius: 25px; /* Adjust the border-radius as needed */
+   padding-left: 10px;
+  padding: 5px; /* Add padding for better spacing */
+   font-size: 12px;
+   border: 1px white;
+}
+
+button {
+  border-radius: 25px; /* Adjust the border-radius as needed */
+  padding: 10px; /* Add padding for better spacing */
+  cursor: pointer;
+  font-size: 12px;
+  padding-left: 10px;
+  border: 1px white;
+}
